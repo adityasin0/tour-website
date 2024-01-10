@@ -26,14 +26,7 @@ India has a myriad of landscapes, great heritage and culture, varied flora and f
 
 ## Contributers
 
-- [@VivekBcloud](https://github.com/VivekBcloud)
-- [@aaricrubel](https://github.com/aaricrubel)
-- [@ashirbad29](https://github.com/ashirbad29)
-- [@Arunsahu07](https://github.com/Arunsahu07)
-- [@haider000](https://github.com/haider000)
-- [@Rachit Gupta](https://github.com/Rachit-3850)
-- [@Ayush-pandey](https://github.com/ayush-pandey007)
-- [@shrey](https://github.com/signifershrey)
+
 
 
   
